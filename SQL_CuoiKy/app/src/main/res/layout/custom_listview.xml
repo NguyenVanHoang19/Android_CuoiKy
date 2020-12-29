@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/tvMa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mã sách"
+        android:layout_weight="1"
+
+        />
+    <TextView
+        android:id="@+id/tvTen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tên"
+        android:layout_weight="1"
+        android:paddingLeft="5dp"
+        />
+    <TextView
+        android:id="@+id/tvTacGia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tác giả"
+        android:layout_weight="1"
+        android:paddingLeft="5dp"
+        />
+    <TextView
+        android:id="@+id/tvTuaSach"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tựa sách"
+        android:layout_weight="1"
+        android:paddingLeft="5dp"
+        />
+</LinearLayout>

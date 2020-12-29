@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQL_CuoiKy</string>
+    <string-array name="TacGia">
+        <item>Nguyễn Hoài Nam</item>
+        <item>Nguyễn Ngọc Ngạn</item>
+        <item>Hoài An</item>
+    </string-array>
+</resources>
